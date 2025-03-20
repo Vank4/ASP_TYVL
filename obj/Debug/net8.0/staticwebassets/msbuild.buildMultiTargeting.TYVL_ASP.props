@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TYVL_ASP.props" />
+</Project>
