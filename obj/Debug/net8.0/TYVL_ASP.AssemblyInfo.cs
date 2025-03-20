@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TYVL_ASP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba0c01764a7f87313d8de4ad8140a978c97355bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("TYVL_ASP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TYVL_ASP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
